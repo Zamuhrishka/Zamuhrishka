@@ -10,7 +10,7 @@ I've been working in Firmware and Embedded Engineering for over 10 years. During
 
 🔧 This is where I house my passion projects – those I take on for fun, and to take a break from my professional endeavors.
 
-📜 When I'm not engrossed in code – be it for work or fun – I pen down technical articles. Feel free to check out my "Publications" section for some insights!
+📜 When I'm not engrossed in code – be it for work or fun – I write technical articles. Feel free to check out my "Publications" section.
 
 # 📊 GitHub Stats:
 
